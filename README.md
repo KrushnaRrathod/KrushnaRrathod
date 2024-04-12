@@ -1,4 +1,5 @@
 # Hi 👋 I am Krushna Rathod
+## Web Developer
 
 * 🌍  I'm based in india
 * ✉️  You can reach me at [rathodkrushna2405@gmail.com](mailto:rathodkrushna2405@gmail.com)
