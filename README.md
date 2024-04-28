@@ -1,5 +1,4 @@
 # Hi 👋 I am Krushna Rathod
-## Web Developer
 
 * 🌍  I'm based in india
 * 🖥️  See my portfolio at [My Portfolio](https://krushnarathod24.vercel.app/)
