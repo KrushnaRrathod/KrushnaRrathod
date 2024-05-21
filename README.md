@@ -1,6 +1,6 @@
-# Hi 👋 I am Krushna Rathod
 ![butterfly (1)](https://github.com/KrushnaRrathod/KrushnaRrathod/assets/121844034/02da1ae2-68a2-4c34-9958-30fbb8757abe)
 ![dog](https://github.com/KrushnaRrathod/KrushnaRrathod/assets/121844034/629ca45b-294e-46ec-831d-18e274c35053)
+# Hi 👋 I am Krushna Rathod
 ## Web Developer
 
 * 🌍  I'm based in india
