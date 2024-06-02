@@ -9,7 +9,6 @@
 * 🧠  I'm currently learning Full Stack Development
 
 
-[![Github Follow](https://img.shields.io/badge/Github-100000?style=badge&logo=github&logoColor=white)](https://github.com/KrushnaRrathod)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/@Krushna75259826)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/krushna_2405r)
 
